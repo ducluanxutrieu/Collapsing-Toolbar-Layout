@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_margin_start">48dp</dimen>
+    <dimen name="collapsing_title_margin_end">64dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="corner_radius_button">10dp</dimen>
+    <dimen name="name_item_recycler_view">20sp</dimen>
+    <dimen name="icon_item_margin">10dp</dimen>
+    <dimen name="icon_avatar_item">50dp</dimen>
+    <dimen name="margin_start_item_text">5dp</dimen>
+    <dimen name="icon_text_fields">50dp</dimen>
+    <dimen name="box_corner_radius">10dp</dimen>
+</resources>
